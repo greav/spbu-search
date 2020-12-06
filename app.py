@@ -1,6 +1,8 @@
-import streamlit as st
 import os
 import time
+
+import streamlit as st
+
 from src.search import SearchClient
 
 
